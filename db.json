@@ -33,7 +33,7 @@
     {
       "id": 2,
       "type": "like",
-      "message": "liked Document 2",
+      "content": "liked Document 2",
       "created_at": "2020-06-09 08:40:36",
       "userName": "Carol",
       "documentName": ""
@@ -41,7 +41,7 @@
     {
       "id": 3,
       "type": "publish",
-      "message": "published document 3",
+      "content": "published document 3",
       "created_at": "2020-06-09 09:40:36",
       "userName": "SpecialK",
       "documentName": ""
@@ -49,7 +49,7 @@
     {
       "id": 4,
       "type": "feedback",
-      "message": "gave feedback on Document 2",
+      "content": "gave feedback on Document 2",
       "created_at": "2020-06-09 010:40:36",
       "userName": "Cocoa",
       "documentName": ""
@@ -57,7 +57,7 @@
     {
       "id": 5,
       "type": "post",
-      "message": "posted to Group 2",
+      "content": "posted to Group 2",
       "date": "2020-06-10 07:40:36",
       "userName": "Yosemite",
       "documentName": ""
@@ -65,7 +65,7 @@
     {
       "id": 6,
       "type": "like",
-      "message": "liked Post 3",
+      "content": "liked Post 3",
       "created_at": "2020-06-010 010:40:36",
       "userName": "Bugs",
       "documentName": ""
@@ -73,7 +73,7 @@
     {
       "id": 7,
       "type": "feedback",
-      "message": "gave feedback on Document 3",
+      "content": "gave feedback on Document 3",
       "created_at": "2020-06-11 07:40:36",
       "userName": "MJ",
       "documentName": ""
