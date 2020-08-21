@@ -9,17 +9,13 @@
       "scopedSlots": { "customRender": "name" }
     },
     {
-      "title": "Gender",
-      "dataIndex": "gender",
-      "filters": [
-        { "text": "Male", "value": "male" },
-        { "text": "Female", "value": "female" }
-      ],
+      "title": "Rank",
+      "dataIndex": "rank",
       "width": "20%"
     },
     {
-      "title": "Email",
-      "dataIndex": "email"
+      "title": "Change",
+      "dataIndex": "change"
     }
   ],
   "feed-items": [
