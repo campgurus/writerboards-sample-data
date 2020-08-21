@@ -5,18 +5,18 @@
       "title": "Name",
       "dataIndex": "name",
       "sorter": true,
-      "width": "70%",
+      "width": "60%",
       "scopedSlots": { "customRender": "name" }
     },
     {
       "title": "Rank",
       "dataIndex": "rank",
-      "width": "15%"
+      "width": "20%"
     },
     {
       "title": "Change",
       "dataIndex": "change",
-      "width": "15%"
+      "width": "20%"
     }
   ],
   "feed-items": [
